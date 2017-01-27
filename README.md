@@ -1,2 +1,1 @@
-# webpack-learning
-learn webpack
+# basic-dev-pack
